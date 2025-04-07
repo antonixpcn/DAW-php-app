@@ -4,8 +4,8 @@
 <!-- LOGO DEL PROYECTO -->
 <br />
 <div align="center">
-  <a href="https://github.com/tu_usuario/la-meva-botiga">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/antonixpcn/DAW-php-app">
+    <img src="(https://paucasesnovescifp.cat/wp-content/uploads/2023/11/cropped-logo_PAU_AENOR_OK.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">La Meva Botiga</h3>
@@ -54,13 +54,12 @@ Este proyecto puede usarse como punto de partida para estudiantes aprendiendo de
 | PHP | 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 | MySQL |
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)                                            
-| Bootstrap          | 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)                                            
+| Bootstrap | 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                                                  
-| HTML5            | 
+| HTML5 | 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                                                                  
-
-| CSS3   | 
+| CSS3 | 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                                       
 <p align="right"><a href="#readme-top">↑ Volver al inicio ↑</a></p>
 
