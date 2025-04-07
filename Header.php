@@ -98,13 +98,13 @@ class Header {
     <div id="carrusel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://img.freepik.com/free-vector/template-banner-online-store-with-shopping-cart-with-purchases-boxes-delivery-from-supermarket-vector-illustration_548887-104.jpg?w=2000&t=st=1701788835~exp=1701789435~hmac=d35b956865746e2f32a7e1b93733a0614acb1eb01e9180747eb1bac78024eb0e" class="d-block w-100" alt="Imagen 1" style="margin-top:-200px">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Header_Lomba_Cerpen.png" class="d-block w-100" alt="Imagen 1" style="margin-top:-200px">
             </div>
             <div class="carousel-item">
-                <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX31859615.jpg" class="d-block w-100" alt="Imagen 2" style="margin-top:-100px">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Header_Page_%282660x1140%29.jpg" class="d-block w-100" alt="Imagen 2" style="margin-top:-100px">
             </div>
             <div class="carousel-item">
-                <img src="https://static.vecteezy.com/system/resources/thumbnails/004/299/815/small/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-vector.jpg" class="d-block w-100" alt="Imagen 3" style="margin-top:-200px">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Wikimania2022_header_red.svg" class="d-block w-100" alt="Imagen 3" style="margin-top:-200px">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carrusel" data-bs-slide="prev">
