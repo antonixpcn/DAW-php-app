@@ -4,7 +4,16 @@ require_once('Connexio.php');
 
 class Nou {
     
-    // Método para guardar un nuevo producto en la base de datos
+    // Método para guardar un nuevo producto en la base de datos    
+    /**
+     * guardarProducte
+     *
+     * @param  mixed $nom
+     * @param  mixed $descripcio
+     * @param  mixed $preu
+     * @param  mixed $categoria
+     * @return void
+     */
     private function guardarProducte($nom, $descripcio, $preu, $categoria) {
         // Verifica si todos los campos requeridos están presentes
         if (!isset($nom) || !isset($descripcio) || !isset($preu) || !isset($categoria)) {
@@ -39,7 +48,12 @@ class Nou {
         }
     }
     
-    // Método para mostrar el formulario de nuevo producto
+    // Método para mostrar el formulario de nuevo producto    
+    /**
+     * mostrarFormulari
+     *
+     * @return void
+     */
     public function mostrarFormulari() {
         $mensaje = "";
         $redirigir = false;
