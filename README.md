@@ -4,9 +4,6 @@
 <!-- LOGO DEL PROYECTO -->
 <br />
 <div align="center">
-  <a href="https://github.com/antonixpcn/DAW-php-app">
-    <img src="https://paucasesnovescifp.cat/wp-content/uploads/2023/11/cropped-logo_PAU_AENOR_OK.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">La Meva Botiga</h3>
 
@@ -52,7 +49,7 @@ Este proyecto puede usarse como punto de partida para estudiantes aprendiendo de
 
 
 | PHP | 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br>
 | MySQL |
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)                                            
 | Bootstrap | 
