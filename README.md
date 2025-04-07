@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/antonixpcn/DAW-php-app">
-    <img src="(https://paucasesnovescifp.cat/wp-content/uploads/2023/11/cropped-logo_PAU_AENOR_OK.png)" alt="Logo" width="80" height="80">
+    <img src="https://paucasesnovescifp.cat/wp-content/uploads/2023/11/cropped-logo_PAU_AENOR_OK.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">La Meva Botiga</h3>
